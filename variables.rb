@@ -6,3 +6,7 @@ numero_dos = "There"
 numero_tres = 3
 #variable numero_quatro is declared and assigned to the Integer of 4
 numero_quatro = 4
+#variable numero_cinco is declared and assigned to the Float of 5.55
+numero_cinco = 5.55
+#variable numero_seis is declaed and assigned to the Float of 6.67
+numero_seis = 6.67
