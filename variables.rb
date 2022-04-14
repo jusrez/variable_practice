@@ -14,3 +14,7 @@ numero_seis = 6.67
 numero_siete = True
 #variable numero_ocho is declared and assigned to the Boolean of False
 numero_ocho = False
+#variable numero_uno is declared but is now assigned to the String of "Goodbye"
+numero_uno = "Goodbye"
+#variable numero_dos is declared but is now assigned to the String of "Again"
+numero_dos = "Again"
